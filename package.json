@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-share",
+  "version": "0.0.1",
+  "description": "Cordova Plugin to open native 'share' popup in Android and iOS",
+  "cordova": {
+    "id": "cordova-plugin-share",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markmarijnissen/cordova-plugin-share.git"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-ios",
+    "cordova-android",
+    "share"
+  ],
+  "license": "MIT"
+}
